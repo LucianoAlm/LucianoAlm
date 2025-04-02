@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luciano Almeida</h1>
-<h3 align="center">I am a Junior Dev currently studying on gettin my bachelor degree in Computer Science. Im an enthusiast in DB and currently looking to start my career in this area.</h3>
+<h3 align="center">I am a Junior Dev currently studying on acquiring my bachelor degree in Computer Science. Im an enthusiast in DB and currently looking to start my career in this area.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianoalm&label=Profile%20views&color=0e75b6&style=flat" alt="lucianoalm" /> </p>
 
